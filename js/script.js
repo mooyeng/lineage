@@ -23,3 +23,8 @@ $(function () {
         e.stopPropagation();
     });
 });
+
+//electronics//
+MathJax.Hub.Config({
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+    });
