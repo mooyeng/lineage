@@ -23,3 +23,20 @@ $(function () {
         e.stopPropagation();
     });
 });
+
+const popupScreen = document.querySelector(".popup-screen");
+const popupBox = document.querySelector(".popup-box");
+const closeBtn = document.querySelector(".close-btn");
+
+window.addEventListener("load", () => {
+    setTimeout(() => {
+        popupScreen.classList.add("active");
+    }, 2000); //popup the screen in 2 sec
+});
+
+closeBtn.addEventListener("click", () => {
+    popupScreen.classList.remove("active"); // close the popup box 
+
+    //create cookie for a day
+    
+});
