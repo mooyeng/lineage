@@ -121,8 +121,7 @@
     "00032" : {
       "dId" : "ᤀᤅᤧ᤺ᤰ/ᤀᤅᤧᤁ᤻",
       "desc" : "/अङेःक्/",
-      "mean" : "<p>Slowly.</p>विस्तारै ।",
-      "nep" : ""
+      "mean" : "<p>Slowly.</p>विस्तारै ।"
     },
     "00033" : {
       "dId" : "ᤀᤅᤧ᤺ᤰᤐᤠ/ᤀᤅᤧᤁ᤻ᤐᤠ",
@@ -1517,8 +1516,7 @@
     "00321" : {
       "dId" : "-ᤀᤡᤃᤪ",
       "desc" : "/इग्र/",
-      "mean" : "<p>or; either… or ( a conjunction denoting alternative).</p>भने त; कि त (विकल्प जनाउने शब्द ) ",
-      "nep" : ""
+      "mean" : "<p>or; either… or ( a conjunction denoting alternative).</p>भने त; कि त (विकल्प जनाउने शब्द ) "
     },
     "00322" : {
       "dId" : "ᤀᤡᤄ᤺ᤣᤱᤔᤠ/ᤀᤡᤄᤣᤅ᤻ᤔᤠ",
@@ -4217,8 +4215,8 @@
       "mean" : "<p>plough share.</p>फाली ।"
     },
     "00862" : {
-      "diPr" : "/कःक्/",
       "dId" : "ᤁ᤺ᤰ/ᤁᤁ᤻",
+      "desc" : "/कःक्/",
       "mean" : "<p>magnolia, a tree of Michelia champaca.</p>चाँप ।"
     },
     "00863" : {
@@ -4886,8 +4884,8 @@
       "mean" : "<p>boiled and fermented soyabean used as food.</p>किनेमा ।"
     },
     "00999" : {
-      "diPr" : "/किन्द्रुक्पा/",
       "dId" : "ᤁᤡᤴᤍᤪᤢᤰᤐᤠ",
+      "desc" : "/किन्द्रुक्पा/",
       "mean" : "<p>marten; the red panda.</p>मलसाँप्राे ।"
     },
     "01000" : {
@@ -5031,8 +5029,8 @@
       "mean" : "<p>a measurement of eight hands (measuring from the elbow to the tip of the middle finger); a lmeanth of this measurement.</p>आठ हातकाे नापाे ।"
     },
     "01028" : {
-      "diPr" : "/कुइक्/",
       "dId" : "ᤁᤢᤀᤡᤰ",
+      "desc" : "/कुइक्/",
       "mean" : "<p>turn; turning (in the road).</p>माेड; माेडिएकाे ठाँउ ।"
     },
     "01029" : {
@@ -5726,8 +5724,8 @@
       "mean" : "<p>evaluation; appraisal; assessment.</p>मुल्याङ्कन ।"
     },
     "01167" : {
-      "diPr" : "/कुबाेःक्/",
       "dId" : "ᤁᤢᤒᤠ᤺ᤣᤰ/ᤁᤢᤒᤠᤣᤁ᤻",
+      "desc" : "/कुबाेःक्/",
       "mean" : "<p>1. a lot of ; heap; pile. 2. about 60 kg in weight. </p>१. धेरै; थुप्राे; राश । २. मुरी ।"
     },
     "01168" : {
@@ -6326,8 +6324,8 @@
       "mean" : "<p>1. seed. 2. seed (fruit).</p>१. दाना (बियाँ) । २. दाना (फल) ।"
     },
     "01287" : {
-      "diPr" : "/कुसेःक्/",
       "dId" : "ᤁᤢᤛᤣ᤺ᤰ/ᤁᤢᤛᤣᤁ᤻",
+      "desc" : "/कुसेःक्/",
       "mean" : "<p>1. a minute particle; grain. 2. slice; chip; piece.</p>१. कण । २. टुक्रा । ३. चाेइटा; छेस्का ।"
     },
     "01288" : {
@@ -13362,8 +13360,7 @@
     "02704" : {
       "dId" : "ᤋᤏᤠᤗᤢᤱ",
       "desc" : "/तनालुङ्/",
-      "mean" : "<p>magnet.</p>",
-      "nep" : "चुम्बक ।"
+      "mean" : "<p>magnet.</p>चुम्बक ।"
     },
     "02705" : {
       "dId" : "ᤋᤴᤇᤢᤱ",
@@ -13848,8 +13845,7 @@
     "02801" : {
       "dId" : "ᤋᤠᤱᤄᤢ",
       "desc" : "/ताङ्घु/",
-      "mean" : "<p>1. prepared tobacco. 2. spiced tobacco.</p>",
-      "nep" : "१. तमाखु । २. कक्कड; कङ्कट्; कटुवा ।"
+      "mean" : "<p>1. prepared tobacco. 2. spiced tobacco.</p>१. तमाखु । २. कक्कड; कङ्कट्; कटुवा ।"
     },
     "02802" : {
       "dId" : "ᤋᤠᤱᤄᤢ᤺ᤰ/ᤋᤠᤱᤄᤢᤁ᤻",
