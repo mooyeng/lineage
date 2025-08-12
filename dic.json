@@ -1,11 +1,9 @@
 {
-  "url": {
-    "urls": "https://jts1.com.np/dic.json"
-  },
-  "Dic" : {
  
+  "Dic" : {
+
     "00009" : {
-      
+    
       "dId" : "ᤀ",
       "desc" : "/अ/",
       "mean" : "<p>The first vowel letter of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे पहिलो स्वरवर्ण ।"
