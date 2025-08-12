@@ -3,26 +3,32 @@
     "urls": "https://jts1.com.np/dic.json"
   },
   "Dic" : {
+ 
     "00009" : {
+      "group": "A",
       "dId" : "ᤀ",
       "desc" : "/अ/",
       "mean" : "<p>The first vowel letter of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे पहिलो स्वरवर्ण ।"
     },
     "00010" : {
+      "group": "A",
       "dId" : "ᤀᤀᤡ(ᤒᤠ)",
       "desc" : "/अइ(बा)/",
       "mean" : "<p>Porcupine</p>दुम्सी ।"
     },
     "00011" : {
+      "group": "A",
       "dId" : "ᤀ᤹ᤀᤡ ",
       "desc" : "/अ? इ/",
       "mean" : "<p>(n.) Weir; pond-trap or diversion of a stream (to catch fish)</p>दुवाली"
     },
     "00012" : {
+      "group": "B",
       "dId" : "ᤀ᤹ᤍ᤺ᤱ/ᤀ᤹ᤍᤅ᤻",
       "desc" : "/अ?दःङ्/",
       "mean" : "<p>(n.)ass; donkey, (adj.) foolish; stupid.</p> (ना.) गधा; (वि.) मूर्ख ।"
     },
+   
     "00013" : {
       "dId" : "ᤀ᤹ᤒᤠ",
       "desc" : "/अ?बा/",
