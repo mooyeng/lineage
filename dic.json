@@ -9,7 +9,7 @@
       "mean" : "<p>The first vowel letter of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे पहिलो स्वरवर्ण ।"
     },
     "00010" : {
-     "group" : "B",
+     "group" : "A",
       "dId" : "ᤀᤀᤡ(ᤒᤠ)",
       "desc" : "/अइ(बा)/",
       "mean" : "<p>Porcupine</p>दुम्सी ।"
@@ -813,6 +813,7 @@
       "mean" : "<p>Mrs/Madam (a formal address term meaning Mrs/Madam).</p>(स्वास्नी मानिसलाइ आदरपुर्वक सम्वाेधन गर्दा प्रयाेग गरीने शब्द ) महाशाया; महाेदया; श्रीमती (मेरी) मालिक्नी । "
     },
     "00170" : {
+      "group" : "B",
       "dId" : "ᤀᤠᤍᤧ",
       "desc" : "/आदे/",
       "mean" : "<p>My dear friend! ( a term of address for a friend); comrade.</p>ए साथी ( साथिलाई सम्बाेधन गरेर बाेलाउने शब्द) ।"
